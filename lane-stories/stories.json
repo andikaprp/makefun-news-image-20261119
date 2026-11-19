@@ -1,0 +1,492 @@
+[
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Shenzhen, China",
+    "lat": 22.54,
+    "lon": 114.06,
+    "headline": "Trump, Xi and Putin shake hands as leaders gather in China",
+    "detail": "The three leaders met at the APEC summit in Shenzhen, with trade, security and Ukraine on the agenda.",
+    "source": "The New York Times"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Tokyo, Japan",
+    "lat": 35.68,
+    "lon": 139.69,
+    "headline": "India and Japan hold 2+2 defence and foreign ministers' dialogue",
+    "detail": "Jaishankar said defence and security ties are key as India and Japan reviewed bilateral cooperation in Tokyo.",
+    "source": "The Times of India"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Puri, Odisha, India",
+    "lat": 19.81,
+    "lon": 85.83,
+    "headline": "Odisha evacuates 47,000 people as Cyclone Akvan nears the coast",
+    "detail": "Akvan is forecast to cross between Narsapur and Puri around noon on Nov 20, with winds of 90-100 km/h.",
+    "source": "The Times of India"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "New Delhi, India",
+    "lat": 28.61,
+    "lon": 77.21,
+    "headline": "Congress targets Modi government over inflation, seeks white paper",
+    "detail": "India's opposition Congress demanded a white paper on rising prices from the Modi government.",
+    "source": "The Hindu"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Jharkhand, India",
+    "lat": 23.34,
+    "lon": 85.31,
+    "headline": "Three workers killed in collapse at NTPC project in Jharkhand",
+    "detail": "Three workers died when an under-construction conveyor structure collapsed at an NTPC project site.",
+    "source": "Indian Express"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Manila, Philippines",
+    "lat": 14.6,
+    "lon": 120.98,
+    "headline": "White House pursues loan package of over $2bn for the Philippines",
+    "detail": "The White House said the US and Philippines will pursue financing through Foreign Military Financing.",
+    "source": "AppiSToS"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Jakarta, Indonesia",
+    "lat": -6.21,
+    "lon": 106.85,
+    "headline": "EU governments greenlight Indonesia trade pact",
+    "detail": "The EU Council approved a trade deal with Indonesia to cut tariffs, with provisional application set to begin soon.",
+    "source": "News Media House"
+  },
+  {
+    "n": 0,
+    "region": "asia",
+    "place": "Hyderabad, India",
+    "lat": 17.39,
+    "lon": 78.49,
+    "headline": "PV Sindhu returns to badminton's world top five after four years",
+    "detail": "The double Olympic medallist climbed to world No. 5 in the BWF rankings, her first top-five place since 2022.",
+    "source": "Jagran Josh"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Kerch Bridge, Crimea",
+    "lat": 45.31,
+    "lon": 36.5,
+    "headline": "Crimean Bridge attacked again and closed to traffic",
+    "detail": "Crimea's Russian-appointed head said the bridge was attacked for the third time this week and damage is being assessed.",
+    "source": "BBC News"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Berlin, Germany",
+    "lat": 52.52,
+    "lon": 13.41,
+    "headline": "Ukraine's European allies meet in Berlin in show of support",
+    "detail": "The Coalition of the Willing met in Berlin with US envoys Witkoff and Kushner to discuss security guarantees for Kyiv.",
+    "source": "Reuters"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Brussels, Belgium",
+    "lat": 50.85,
+    "lon": 4.35,
+    "headline": "EU proposes 45 billion euro Ukraine loan tied to reparations",
+    "detail": "The European Commission proposed a new 45 billion euro loan for Ukraine, to be repaid after Russia pays reparations.",
+    "source": "Reuters"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Paris, France",
+    "lat": 48.86,
+    "lon": 2.35,
+    "headline": "France sees fourth weekend of protests over rising living costs",
+    "detail": "France faced a fourth consecutive weekend of nationwide demonstrations driven by anger over the cost of living.",
+    "source": "The Paris Eye"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Tallinn, Estonia",
+    "lat": 59.44,
+    "lon": 24.75,
+    "headline": "Estonia plans to close its border crossings with Russia in December",
+    "detail": "Tallinn said crossings will close from December after an attempted attack on a defence company.",
+    "source": "The Munich Eye"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Berlin, Germany",
+    "lat": 52.5,
+    "lon": 13.38,
+    "headline": "Ukrainian-German entrepreneur charged with spying for Russia",
+    "detail": "Federal prosecutors charged Ilona W. with allegedly acting as an informant for Russian intelligence in Berlin.",
+    "source": "The Munich Eye"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Kyiv, Ukraine",
+    "lat": 50.45,
+    "lon": 30.52,
+    "headline": "Russia and Ukraine exchange drone attacks amid Abu Dhabi talks",
+    "detail": "Both sides reported drone attacks damaging infrastructure, despite ongoing peace talks in Abu Dhabi.",
+    "source": "The Munich Eye"
+  },
+  {
+    "n": 0,
+    "region": "europe",
+    "place": "Paris, France",
+    "lat": 48.84,
+    "lon": 2.3,
+    "headline": "ESA chief calls for space laws and satellite surveillance rules",
+    "detail": "The European Space Agency's chief called for new space laws and stronger satellite surveillance.",
+    "source": "The Munich Eye"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Gaza City, Gaza",
+    "lat": 31.5,
+    "lon": 34.47,
+    "headline": "Israeli military launches rare ground operation beyond Yellow Line",
+    "detail": "Israeli tanks advanced across the Gaza cease-fire line in a rare incursion beyond the Yellow Line.",
+    "source": "BBC News"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Gaza",
+    "lat": 31.52,
+    "lon": 34.45,
+    "headline": "Four nations urge Israel to let aid reach flooded Gaza",
+    "detail": "Australia, Canada, Italy and the UK jointly called for immediate, unrestricted humanitarian access across Gaza.",
+    "source": "The Paris Eye"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Jerusalem, Israel",
+    "lat": 31.78,
+    "lon": 35.22,
+    "headline": "Israel's president taps Eisenkot to try to form next government",
+    "detail": "President Herzog asked former army chief Gadi Eisenkot to attempt to form a government, bypassing Netanyahu.",
+    "source": "The Paris Eye"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Riyadh, Saudi Arabia",
+    "lat": 24.71,
+    "lon": 46.68,
+    "headline": "Saudi Arabia says danger has passed after Riyadh warning",
+    "detail": "Civil Defence issued a warning for Riyadh then said danger had passed, as Houthis claimed strikes on the capital.",
+    "source": "AppiSToS"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Khasab, Oman",
+    "lat": 26.18,
+    "lon": 56.25,
+    "headline": "Tanker struck in engine room near Strait of Hormuz, crew safe",
+    "detail": "UKMTO reported a tanker hit by a projectile six nautical miles north of Khasab; all crew were reported safe.",
+    "source": "UKMTO"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Beirut, Lebanon",
+    "lat": 33.89,
+    "lon": 35.5,
+    "headline": "US sanctions three entities and three people over Hezbollah links",
+    "detail": "OFAC sanctioned the Wa Ta'awanu Association and a network over alleged Hezbollah funding links.",
+    "source": "AppiSToS"
+  },
+  {
+    "n": 0,
+    "region": "middle-east",
+    "place": "Aden, Yemen",
+    "lat": 12.79,
+    "lon": 45.03,
+    "headline": "Yemeni forces pull back from Bab el-Mandeb to defend Aden",
+    "detail": "Government forces withdrew from the strait area as Houthi forces seized Red Sea coastal positions, a roundup reported.",
+    "source": "Molitics Global"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "Washington, DC, USA",
+    "lat": 38.9,
+    "lon": -77.04,
+    "headline": "House Democrats nominate Jeffries, in line to be first Black Speaker",
+    "detail": "Democrats voted 251 to 11 to nominate Hakeem Jeffries, putting him in line to become the first Black House Speaker.",
+    "source": "The New York Times"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "Washington, DC, USA",
+    "lat": 38.92,
+    "lon": -77.02,
+    "headline": "US senators warn AI-enabled cyber threats are outpacing defences",
+    "detail": "Senators Cantwell and Rounds urged the White House AI czar to fix vulnerabilities as AI speeds up cyberattacks.",
+    "source": "Reuters"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "Washington, DC, USA",
+    "lat": 38.88,
+    "lon": -77.06,
+    "headline": "Lawmakers demand briefings on string of US technology outages",
+    "detail": "Both parties pressed for answers on outages hitting banks, airlines and agencies; the DNI said no coordinated attack was indicated.",
+    "source": "Washington Examiner"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "New York, USA",
+    "lat": 40.71,
+    "lon": -74.01,
+    "headline": "Claude-maker Anthropic poised for $1.4tn-plus stock market debut",
+    "detail": "Anthropic began its Nasdaq debut day with a valuation above $1.4 trillion, among the largest listings ever.",
+    "source": "NewsBites"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "New York, USA",
+    "lat": 40.73,
+    "lon": -73.99,
+    "headline": "Van Gogh sells for record $190.4m after Nazi-history row settled",
+    "detail": "Sotheby's sold Blossoming Chestnut Trees for $190.4 million in New York, a record for the artist, after an eleventh-hour deal.",
+    "source": "BBC News"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "New York, USA",
+    "lat": 40.69,
+    "lon": -74.03,
+    "headline": "Grand Theft Auto VI begins global rollout after 13-year wait",
+    "detail": "Gamers worldwide entered Vice City as GTA VI, the first new entry in the series in 13 years, launched globally.",
+    "source": "BBC News"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "Miami, USA",
+    "lat": 25.79,
+    "lon": -80.14,
+    "headline": "NTSB: helicopter flew dangerously low before Biscayne Bay crash",
+    "detail": "Investigators reported the helicopter flew dangerously low before crashing in Biscayne Bay, Florida.",
+    "source": "News Media House"
+  },
+  {
+    "n": 0,
+    "region": "north-america",
+    "place": "Pasadena, California, USA",
+    "lat": 34.15,
+    "lon": -118.14,
+    "headline": "NASA's Voyager 1 believed to have reached one light-day from Earth",
+    "detail": "The 1977 probe is believed to be the first human-made object a full light-day from Earth, nearly five decades on.",
+    "source": "Jagran Josh"
+  },
+  {
+    "n": 0,
+    "region": "south-america",
+    "place": "Caracas, Venezuela",
+    "lat": 10.48,
+    "lon": -66.9,
+    "headline": "US and Venezuela sign deal to re-establish military ties",
+    "detail": "Defence Secretary Hegseth announced the pact in Caracas, covering training, equipment and intelligence sharing.",
+    "source": "CNN"
+  },
+  {
+    "n": 0,
+    "region": "south-america",
+    "place": "Caracas, Venezuela",
+    "lat": 10.5,
+    "lon": -66.88,
+    "headline": "US details $12bn in Venezuelan oil and mineral revenue in report",
+    "detail": "The State Department published a 53-page report on how over $12bn in Venezuelan oil and mineral revenue was handled.",
+    "source": "The Paris Eye"
+  },
+  {
+    "n": 0,
+    "region": "south-america",
+    "place": "Panama City, Panama",
+    "lat": 8.98,
+    "lon": -79.52,
+    "headline": "Panama announces second arrest over attack on journalist's home",
+    "detail": "Prosecutors said a second suspect was apprehended in the attack on journalist Rolando Rodriguez's home.",
+    "source": "AppiSToS"
+  },
+  {
+    "n": 0,
+    "region": "south-america",
+    "place": "Asuncion, Paraguay",
+    "lat": -25.26,
+    "lon": -57.58,
+    "headline": "Paraguay extends Ueno Bank deposit guarantee deadline to December 2",
+    "detail": "The central bank extended the statutory assessment period by 15 days while Ueno Bank's assets are reviewed.",
+    "source": "AppiSToS"
+  },
+  {
+    "n": 0,
+    "region": "south-america",
+    "place": "Guayaquil, Ecuador",
+    "lat": -2.19,
+    "lon": -79.89,
+    "headline": "Ecuadorian fishermen sue Trump administration over boat strike",
+    "detail": "The fishermen allege US drones illegally struck their boat in the eastern Pacific, in a US federal lawsuit.",
+    "source": "Kalgoorlie Miner"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Nairobi, Kenya",
+    "lat": -1.29,
+    "lon": 36.82,
+    "headline": "Kenya senator dismisses Ruto's State address as rights cover-up",
+    "detail": "Senator Sifuna dismissed President Ruto's State of the Nation address as a cover-up for rights abuses.",
+    "source": "The Standard"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Olkaria, Kenya",
+    "lat": -0.89,
+    "lon": 36.43,
+    "headline": "Firm to build geothermal-powered fertiliser plant at Olkaria",
+    "detail": "A firm will build a geothermal-powered fertiliser plant at Kenya's Olkaria Energy Park, The Standard reported.",
+    "source": "The Standard"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Mogadishu, Somalia",
+    "lat": 2.05,
+    "lon": 45.32,
+    "headline": "UAE accuses Somalia's president of putting personal interests first",
+    "detail": "UAE adviser Anwar Gargash accused President Hassan Sheikh of personal calculations amid a dispute over his mandate.",
+    "source": "Axadle Times"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Mogadishu, Somalia",
+    "lat": 2.03,
+    "lon": 45.34,
+    "headline": "Somalia gives $11.5m to 17,300 herders to save livestock in drought",
+    "detail": "Over 17,300 pastoralists received support under the DRIVE programme to buy water and feed as drought worsens.",
+    "source": "Puntland Times"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Ilorin, Kwara, Nigeria",
+    "lat": 8.48,
+    "lon": 4.55,
+    "headline": "Nigerian army admits dialogue with terrorists in Kwara State",
+    "detail": "The army commented on a viral video and admitted dialogue with terrorists in Kwara, Premium Times reported.",
+    "source": "Premium Times"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Accra, Ghana",
+    "lat": 5.6,
+    "lon": -0.19,
+    "headline": "Ghana's new 10-cedi note features Justice Annie Ruth Jiagge",
+    "detail": "Ghana's new GHc10 note honours Justice Annie Ruth Jiagge, 3News reported from Accra.",
+    "source": "3News"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Cairo, Egypt",
+    "lat": 30.04,
+    "lon": 31.24,
+    "headline": "Egypt and Syria to restore direct flights after 14 years",
+    "detail": "Egypt and Syria will restore direct flights after a 14-year gap, Egyptian Streets reported.",
+    "source": "Egyptian Streets"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Benghazi, Libya",
+    "lat": 32.12,
+    "lon": 20.07,
+    "headline": "Cocaine and millions of pills seized in eastern Libya, officials say",
+    "detail": "Libyan officials said cocaine and millions of pills were seized in the east of the country.",
+    "source": "Jagran Josh"
+  },
+  {
+    "n": 0,
+    "region": "africa",
+    "place": "Harare, Zimbabwe",
+    "lat": -17.83,
+    "lon": 31.05,
+    "headline": "Zimbabwe court reserves judgment on Mnangagwa term challenges",
+    "detail": "The Constitutional Court reserved judgment on two challenges to President Mnangagwa's term extension.",
+    "source": "Nehanda Radio"
+  },
+  {
+    "n": 0,
+    "region": "oceania",
+    "place": "Wellington, New Zealand",
+    "lat": -41.29,
+    "lon": 174.78,
+    "headline": "New Zealand reach 140/5 at tea on day one of India Test",
+    "detail": "Bumrah took three wickets before Nicholls and Phillips rebuilt for New Zealand at Wellington's Basin Reserve.",
+    "source": "IANS"
+  },
+  {
+    "n": 0,
+    "region": "oceania",
+    "place": "Darwin, Australia",
+    "lat": -12.46,
+    "lon": 130.84,
+    "headline": "Port of Darwin lease row reignites ahead of Albanese-Xi meeting",
+    "detail": "Leaseholder Landbridge refused to rule out tribunal action as Australia pursues ending the Port of Darwin lease.",
+    "source": "Kalgoorlie Miner"
+  },
+  {
+    "n": 0,
+    "region": "oceania",
+    "place": "Sydney, Australia",
+    "lat": -33.87,
+    "lon": 151.21,
+    "headline": "General Pants Co enters voluntary administration in Australia",
+    "detail": "The retailer entered voluntary administration as Australia's retail sector faces continued strain.",
+    "source": "News Media House"
+  },
+  {
+    "n": 0,
+    "region": "oceania",
+    "place": "Port Moresby, Papua New Guinea",
+    "lat": -9.48,
+    "lon": 147.15,
+    "headline": "Australia backs more PNG skilled workers under PALM scheme",
+    "detail": "Australia backed raising PNG workers under the PALM scheme toward 8,000 after the Port Moresby leaders' dialogue.",
+    "source": "PNG Haus Lain"
+  }
+]
