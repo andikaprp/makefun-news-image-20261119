@@ -1,7 +1,13 @@
+# makefun-news-image-20261119
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/andikaprp/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/andikaprp/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # One Day on Earth — 19 November 2026
 
 A make.fun entry for the bounty "Sum up 19 November's world news in one image"
-(`news-image-20261119`).
+(`news-image-20261119`): https://make.fun/bounty/news-image-20261119
 
 **The concept.** The page is the day itself travelling around the planet. A
 midnight-observatory world map is the hero; the day's stories sit on it as
@@ -29,6 +35,14 @@ names the stories rejected for date risk instead of quietly using them.
   illustration panels in `lane-art-v4/`. It is deterministic: two runs of the
   builder produce byte-identical images.
 
+## Run it
+
+```sh
+python3 main.py
+```
+
+This writes the entry image to `/output/entry.png`.
+
 ## Layout
 
 - `main.py`, `entry.png` — the entry
@@ -39,3 +53,7 @@ names the stories rejected for date risk instead of quietly using them.
 - `lane-art-v4/panel-*.png` — the 11 illustration panels
 
 MIT licensed — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
